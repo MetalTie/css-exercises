@@ -22,8 +22,9 @@ button {
 
 button {
   transition: transform .3s ease-in-out;
+  
 }
 
 button:hover {
-  transform: scale(1.2)
+  transform: scale(1.2);
 }
