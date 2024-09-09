@@ -1,0 +1,15 @@
+.class{
+    background-color: pink;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.cooler{
+    font-size: 25px;
+}
+#num2{
+    font-size: 38px;
+    color: blue;
+}
+#num4{
+    font-weight: bold;
+    background-color: rgb(121, 255, 121);
+}
