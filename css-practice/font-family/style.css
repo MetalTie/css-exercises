@@ -1,0 +1,48 @@
+.serif{
+    font-family: serif;
+    
+}
+    .tns{
+        font-family: 'Times New Roman';
+    }
+    .georgia{
+        font-family: Georgia;
+    }
+    .garamond{
+        font-family: garamond;
+    }
+.sans-serif{
+    font-family: sans-serif;
+}
+    .arial{
+        font-family: Arial;
+    }
+    .verdana{
+        font-family: verdana;
+    }
+    .trebuchet{
+        font-family: 'Trebuchet MS';
+    }
+    .gothic{
+        font-family: 'Franklin Gothic Medium';
+    }
+    .gill{
+        font-family: 'Gill Sans', 'Gill Sans MT';
+    }
+    .helvetica{
+        font-family: Helvetica;
+    }
+    .lucida{
+        font-family: 'Lucida Sans';
+    }
+    .tahoma{
+        font-family: Tahoma;
+    }
+    .impact{
+        font-family: Impact;
+    }
+    .haettenschweiler{
+        font-family: Haettenschweiler;
+    }
+
+    
