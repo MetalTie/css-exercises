@@ -1,16 +1,48 @@
+body{
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+h2{
+    font-size: 25px;
+    margin: 0;
+}
+.serif, .sans-serif, .monospace, .cursive, .fantasy{
+    font-size: 25px;
+}
+
+article{
+    background-color: aqua;
+    padding: 15px;
+}
+.family{
+    list-style: none;
+}
+.specific{
+    font-size: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+}
+
+/* Applicable Serif fonts on chrome */
 .serif{
     font-family: serif;
     
 }
-    .tns{
-        font-family: 'Times New Roman';
-    }
     .georgia{
         font-family: Georgia;
     }
     .garamond{
         font-family: garamond;
     }
+
+/* Applicable Sans-Serif fonts on chrome */
 .sans-serif{
     font-family: sans-serif;
 }
@@ -45,4 +77,29 @@
         font-family: Haettenschweiler;
     }
 
-    
+/* Applicable Monospace fonts on chrome */
+.monospace{
+    font-family: monospace;
+}
+    .lucida{
+        font-family: 'lucida console';
+    }
+    .courier{
+        font-family: Courier;
+    }
+
+/* Applicable Cursive fonts on chrome */
+.cursive{
+    font-family: cursive;
+}
+    .brush{
+        font-family: 'Brush Script MT';
+    }
+    .lucidaHandwriting{
+        font-family: 'Lucida Handwriting';
+    }
+
+/* Applicable Fantasy fonts on chrome */
+.fantasy{
+    font-family: fantasy;
+}
