@@ -1,0 +1,1 @@
+This website is an example of a manual slideshow.
