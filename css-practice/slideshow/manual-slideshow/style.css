@@ -29,6 +29,7 @@ body, #slider, .wrap, .slide-content{
     justify-content: center;
     align-items: center;
     text-align: center;
+    
 }
 /* Text size */
 .slide-content span{
